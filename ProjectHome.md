@@ -1,0 +1,1 @@
+A python wrapper over Yahoo - Answers API. Yahoo api can be found at http://developers.yahoo.com/answers/
